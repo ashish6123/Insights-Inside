@@ -54,12 +54,10 @@ Insights_Inside/
 │   └── vectorizer.pkl
 ├── dataset/
 │   └── sample_input.csv
-├── outputs/
 ├── requirements.txt
 ├── notebooks/
 │   └── model_building.ipynb
 ├── README.md
-└── report.pdf (optional)
 ```
 
 ---
