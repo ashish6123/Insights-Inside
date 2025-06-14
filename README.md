@@ -1,6 +1,7 @@
 # 🧠 Insights Inside – Product Review Sentiment Analysis Tool
 
-**Insights Inside** is a modern, end-to-end web application designed to analyze and visualize sentiments in product reviews. Built with Streamlit and powered by machine learning, this tool helps you uncover actionable insights from customer feedback at scale—whether from Flipkart or any other e-commerce platform.
+**Insights Inside** is a modern, end-to-end web application designed to analyze and visualize sentiments in product reviews. Built with Streamlit and powered by machine learning, this tool helps you uncover actionable insights from customer feedback at scale from any 
+e-commerce platform.
 
 ---
 
