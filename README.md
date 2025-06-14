@@ -1,6 +1,7 @@
 # 🧠 Insights Inside – Product Review Sentiment Analysis Tool
 
-🚀 **[Live Demo App](https://ashish6123-insights-inside-app-ewjx08.streamlit.app/)**
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ashish6123-insights-inside-app-ewjx08.streamlit.app/)
+
 
 **Insights Inside** is a modern, end-to-end web application designed to analyze and visualize sentiments in product reviews. Built with Streamlit and powered by machine learning, this tool helps you uncover actionable insights from customer feedback at scale from any 
 e-commerce platform.
