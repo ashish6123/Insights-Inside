@@ -118,8 +118,4 @@ Insights Inside empowers product managers, data analysts, and e-commerce busines
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
